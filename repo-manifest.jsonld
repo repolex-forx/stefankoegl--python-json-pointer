@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/stefankoegl/python-json-pointer/commit/fc5603b445c09c8ad9414f7ec2705e58d4bfb618",
       "git:hexsha": "fc5603b445c09c8ad9414f7ec2705e58d4bfb618",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v3.9"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v3.9",
+      "repolex:parsedAt": "2026-11-06T02:19:49.517542+00:00"
     },
     {
       "@id": "https://repolex.ai/r/stefankoegl/python-json-pointer/commit/8b58861ed5003306ea506ec837245d59e6b8fdc4",
