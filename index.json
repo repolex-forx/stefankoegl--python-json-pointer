@@ -1,0 +1,11 @@
+{
+  "org": "stefankoegl",
+  "repo": "python-json-pointer",
+  "versions": [
+    {
+      "commit": "fc5603b445c09c8ad9414f7ec2705e58d4bfb618",
+      "tag": "v3.9",
+      "parsed_at": "2026-11-06T02:19:49.542785+00:00"
+    }
+  ]
+}
