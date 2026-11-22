@@ -3,6 +3,11 @@
   "repo": "python-json-pointer",
   "versions": [
     {
+      "commit": "ada0cade3bcd21d5726dd701d092c7d0d1ce8c41",
+      "tag": "v3.1.1",
+      "parsed_at": "2026-11-22T06:01:05.460943+00:00"
+    },
+    {
       "commit": "fc5603b445c09c8ad9414f7ec2705e58d4bfb618",
       "tag": "v3.9",
       "parsed_at": "2026-11-06T02:19:49.542785+00:00"
